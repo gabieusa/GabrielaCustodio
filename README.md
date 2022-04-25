@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 Atualmente sou estágiaria
-- 🌱 Atualmente estou aprendendo Linguagem de Marcação 
+- 🌱 Atualmente estudando Linguagem de Marcação 
 - 👯 Sou mulher
 - 📫 Como entrar em contato comigo: gabrielaeusa@gmail.com
 - ⚡ Curiosidade: Amo filmes de terror, suspense e ação.
@@ -14,4 +14,5 @@
 
 ### Estou aprendendo
 
-<img src="https://hambaloch.medium.com/html5-css3-and-javascript-the-three-musketeers-3bff702bfe3a" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  width="40" height="40"/><img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+
