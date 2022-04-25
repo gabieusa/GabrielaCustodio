@@ -9,5 +9,5 @@
 - 🌱 Atualmente estou aprendendo Linguagem de Marcação 
 - 👯 Sou mulher
 - 📫 Como entrar em contato comigo: gabrielaeusa@gmail.com
-- ⚡ Curiosidade: ...
+- ⚡ Curiosidade: Amo filmes de terror, suspense e ação.
 -->
