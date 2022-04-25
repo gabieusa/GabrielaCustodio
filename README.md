@@ -11,3 +11,7 @@
 - 📫 Como entrar em contato comigo: gabrielaeusa@gmail.com
 - ⚡ Curiosidade: Amo filmes de terror, suspense e ação.
 -->
+
+### Estou aprendendo
+
+<img src="https://hambaloch.medium.com/html5-css3-and-javascript-the-three-musketeers-3bff702bfe3a" width="40" height="40"/> 
